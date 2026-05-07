@@ -10,7 +10,6 @@ html{
 
 body{
     font-family: Arial, Helvetica, sans-serif;
-    color: #333;
 }
 
 section{
@@ -30,19 +29,18 @@ section{
 }
 
 h2{
-    font-size: 2.2rem;
+    font-size: 2.5rem;
     font-weight: normal;
     margin-bottom: 20px;
 }
 
 p{
-    font-size: 1rem;
-    line-height: 1.6;
+    font-size: 1.4rem;
 }
 
 .arrow{
     text-decoration: none;
-    color: #111;
+    color: black;
     font-size: 3rem;
     margin: 20px 0;
     transition: transform 0.2s ease-in-out;
@@ -53,13 +51,13 @@ p{
 }
 
 #section1{
-    background-color: #8df0d5;
+    background-color: lightskyblue;
 }
 
 #section2{
-    background-color: #65df6d;
+    background-color: lightgreen;
 }
 
 #section3{
-    background-color: #cd6b61;
+    background-color: indianred;
 }
